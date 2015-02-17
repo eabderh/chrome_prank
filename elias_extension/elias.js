@@ -1,4 +1,4 @@
-if (1) (function() {
+if (location.protocol !== 'chrome:') (function() {
     'use strict';
     var l = document.createElement('link');
     l.rel = 'stylesheet';
