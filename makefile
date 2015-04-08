@@ -32,7 +32,7 @@ cl:
 
 
 zip:
-	zip elias_chrome_ext.zip chrome_ext/*
+	zip custom_css_chrome_extension.zip custom_css/*
 
 
 
